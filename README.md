@@ -10,7 +10,7 @@
 
 
 
- 🔐 My interests lie in the realm of cybersecurity, where I have honed skills in penetration testing, network security, incident response, and secure coding. 🌐
+ 🔐 My interests lies in the realm of cybersecurity, where I have honerd skills in penetration testing, network security, incident response, and secure coding. 🌐
 
 🛠️ I enjoy working with tools like Burp Suite, Metasploit, and Nmap, and I'm adept at configuring firewalls, IDS/IPS, and securing network infrastructure. 💡
 
